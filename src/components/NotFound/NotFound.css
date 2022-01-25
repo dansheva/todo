@@ -1,0 +1,19 @@
+.not_found_container {
+    height: 100vh;
+    margin-top: -64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.not_found_title {
+    font-size: 40px;
+    margin-bottom: 20px;
+    color: rgb(51, 51, 51);
+}
